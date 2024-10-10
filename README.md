@@ -6,4 +6,11 @@ To create a comprehensive dashboard where essential business-related KPIs can be
 - Calculating Explicit Measures with Power BI DAX
 - Visualizing Data for Reporting
 
+## Data Model
+
+
+## Report
+The report can be found in the GitHub repository. The link to the report is available here:
+https://github.com/bhavay1998/AdventureWorks/blob/main/AdventureWorks%20Report.pbix
+
   
