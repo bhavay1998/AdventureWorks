@@ -7,6 +7,7 @@ To create a comprehensive dashboard where essential business-related KPIs can be
 - Visualizing Data for Reporting
 
 ## Data Model
+The data is shaped and transformed using Power Query Editor. The relational models and table relationships are built as shown here: 
 
 
 ## Report
