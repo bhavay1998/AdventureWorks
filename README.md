@@ -14,7 +14,8 @@ Dataset is raw csv files, which contain information about transactions, returns,
 The data is shaped and transformed using Power Query Editor. Using the "Data Model" in Power BI Desktop relational models and table relationships are built as shown here: <u>https://github.com/bhavay1998/AdventureWorks/blob/main/Data%20Model.pdf</u>
 
 ## Report
-The report can be found in the GitHub repository. The link to the report is available here:
-<u>https://github.com/bhavay1998/AdventureWorks/blob/main/AdventureWorks%20Report.pbix</u>
+The interactive report (dashboard) can be easily accessed online using the link:
+<u>https://app.powerbi.com/groups/me/reports/126dfe67-537f-4110-8162-1961aff84c22/ReportSection?experience=power-bi</u>
 
-  
+The report (as a .pbix file) can also be found in this repository. Link:
+<u>https://github.com/bhavay1998/AdventureWorks/blob/main/AdventureWorks%20Report.pbix</u>
