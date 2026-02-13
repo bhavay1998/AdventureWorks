@@ -7,6 +7,8 @@ The BI workflow used in this project is structured as follows:
 - Calculating Explicit Measures with Power BI DAX
 - Visualizing Data for Reporting through dashboard
 
+Detailed description for every step of the dashboard building process can be found [here](https://www.notion.so/AdventureWorks-Notebook-2ffeb796c52780ecb17ed27b7b9fdd3e?source=copy_link).
+
 ## Data Used
 [Dataset](Data) used is raw csv files, which contain information about transactions, returns, products, customers, and sales territories for the company.
 
