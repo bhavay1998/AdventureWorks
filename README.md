@@ -8,7 +8,7 @@ The BI workflow used in this project is structured as follows:
 - Visualizing Data for Reporting through dashboard
 
 ## Data Used
-Dataset is raw csv files, which contain information about transactions, returns, products, customers, and sales territories for the company.
+[Dataset](Data) used is raw csv files, which contain information about transactions, returns, products, customers, and sales territories for the company.
 
 ## Data Model
 ![Complete Model](data_model.png)
