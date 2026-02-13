@@ -11,6 +11,7 @@ The BI workflow used in this project is structured as follows:
 Dataset is raw csv files, which contain information about transactions, returns, products, customers, and sales territories for the company.
 
 ## Data Model
-The data is shaped and transformed using Power Query Editor. Using the "Data Model" in Power BI Desktop relational models and table relationships are built as shown here: <u>https://github.com/bhavay1998/AdventureWorks/blob/main/Data%20Model.pdf</u>
+![Complete Model](data_model.png)
+The data is shaped and transformed using Power Query Editor. The 'Model View' in Power BI Desktop is used to build table relationships.
 
 
