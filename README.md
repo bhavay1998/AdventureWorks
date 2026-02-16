@@ -15,7 +15,7 @@ To create a comprehensive dashboard where essential business-related KPIs can be
 ## Data Used
 [Dataset](Data) used is raw csv files, which contain information about transactions, returns, products, customers, and sales territories for the company.
 
-## Data Model
+## Data Model (OLAP)
 ![Complete Model](data_model.png)
 The data is shaped and transformed using Power Query Editor. The 'Model View' in Power BI Desktop is used to build table relationships.
 
